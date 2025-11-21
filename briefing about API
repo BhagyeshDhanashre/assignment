@@ -1,5 +1,8 @@
 Applicaton programming Interface (API ) :
 It is used to make communication between two or more application backend system.
+It uses some protocols and rules to communicate between two systems.
+Using API it is not required to write code of the others sytems , we can access them using an API KEY, This makes easy to develop systems.
+One system sends the query to other system using API KEY , The other system receives the query and process it and returns the result to the main system.
 
 
 
